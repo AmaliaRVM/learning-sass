@@ -1,0 +1,20 @@
+body {
+    background-color: red;
+}
+
+$color-header:red;
+
+$color-titles:yellow;
+
+$color-bg:blue;
+
+
+#uno {
+    background-color: $color-titles;
+    width: 50%;
+}
+
+
+p {
+   color:$color-titles;
+}
